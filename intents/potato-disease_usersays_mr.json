@@ -1,0 +1,41 @@
+[
+  {
+    "id": "8943075f-7f48-40f4-9abc-7acb362e7144",
+    "data": [
+      {
+        "text": "मला सांगा बटाट्याचे सर्व रोग आणि उपाय काय आहेत",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "15b1c359-f9dc-4204-8832-729d6dd238d6",
+    "data": [
+      {
+        "text": "बटाट्यावर कोणत्या प्रकारचे रोग शेती करताना आढळतात",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "424da4b5-21c1-46b6-8041-1b181936ea84",
+    "data": [
+      {
+        "text": "मला बटाट्याच्या रोगाबद्दल सांगा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  }
+]

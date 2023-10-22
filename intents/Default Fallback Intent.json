@@ -1,0 +1,45 @@
+{
+  "id": "d53ef446-ac69-45ac-80a8-c808cefaed5b",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "mr",
+          "speech": [
+            "मला ते समजले नाही. तुम्ही ते पुन्हा एकदा म्हणाल का?",
+            "तुम्ही काय म्हंटले ते मी ऐकले नाही. पुन्हा म्हणाल का?",
+            "माफ करा, तुम्ही ते पुन्हा म्हणाल का?",
+            "माफ करा, तुम्ही ते पुन्हा म्हणू शकता का?",
+            "माफ करा, मला ते समजले नाही.",
+            "माफ करा, ते काय होते?",
+            "आणखी एकदा?",
+            "ते काय होते?",
+            "ते पुन्हा म्हणाल का?",
+            "मला ते समजले नाही.",
+            "मी ते ऐकले नाही."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

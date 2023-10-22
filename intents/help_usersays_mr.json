@@ -1,0 +1,67 @@
+[
+  {
+    "id": "f0df7858-703f-49c7-ac87-a385f522c4cf",
+    "data": [
+      {
+        "text": "मला काय करावे हे कळत नाही",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "4f3e2335-31c8-4f46-a2a4-74b8661a59d9",
+    "data": [
+      {
+        "text": "मला मदत करा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "88310da2-ab55-4d82-81a3-94f253acddf9",
+    "data": [
+      {
+        "text": "कृपया तुम्ही मला मदत करू शकाल का",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "0164c372-4742-4aa8-a55d-f1e30ca8fd0a",
+    "data": [
+      {
+        "text": "मी अडकलो आहे, कृपया मला मदत करा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "5331d6c7-0564-4c10-b522-0f8c6d0e6d42",
+    "data": [
+      {
+        "text": "कृपया मला मदत करा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  }
+]

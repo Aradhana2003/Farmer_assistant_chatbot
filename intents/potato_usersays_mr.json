@@ -1,0 +1,54 @@
+[
+  {
+    "id": "4aa29fbf-2d39-4ff5-a17e-022937a3e965",
+    "data": [
+      {
+        "text": "मला बटाट्याची शेती कशी करावी हे माहित नाही कृपया मला मदत करा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "7da3cbfe-ec1c-495f-948d-ff81d29de1ca",
+    "data": [
+      {
+        "text": "बटाट्याची शेती",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "953507b2-e9cf-4e25-ac9a-c6ac264d6553",
+    "data": [
+      {
+        "text": "बटाट्याची शेती कशी करावी",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "e28d96d2-333f-4f25-a9e4-e8c1acf85b22",
+    "data": [
+      {
+        "text": "बटाट्याची शेती कशी करावी ते सांगा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  }
+]
