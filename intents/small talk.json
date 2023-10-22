@@ -1,0 +1,37 @@
+{
+  "id": "2e9c4251-321d-462c-aa8a-9e353af5fcc2",
+  "name": "small talk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "mr",
+          "speech": [
+            "मी शेतकरी सहाय्यक चॅटबॉट आहे",
+            "शेतकऱ्यांना मदत करण्यासाठी शेतकरी सहाय्यक चॅटबॉट",
+            "मी शेतकऱ्यांना मदत करतो"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

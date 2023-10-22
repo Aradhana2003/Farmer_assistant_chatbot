@@ -1,0 +1,41 @@
+[
+  {
+    "id": "706abdea-111d-433a-8efe-ebe8939ec96e",
+    "data": [
+      {
+        "text": "मला बटाटा शेतीसाठी पाणी व्यवस्थापनाबद्दल सांगा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "c954b63d-1b6c-437a-bce0-45b98678f25b",
+    "data": [
+      {
+        "text": "बटाटा शेतीसाठी पाणी व्यवस्थापन",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "36d1fcc6-af1f-401a-a02c-13fdf605dd11",
+    "data": [
+      {
+        "text": "बटाटा शेतीसाठी पाणी व्यवस्थापन कसे करावे",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  }
+]

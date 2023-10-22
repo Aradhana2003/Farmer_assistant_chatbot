@@ -1,0 +1,54 @@
+[
+  {
+    "id": "b0026b49-6b17-4aaa-b19d-889a6722f170",
+    "data": [
+      {
+        "text": "मला बटाटा शेतीसाठी खतांची माहिती द्या",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "8eecf613-40d5-4371-be31-9c108b24ab26",
+    "data": [
+      {
+        "text": "बटाट्यासाठी कोणती खते वापरली पाहिजेत आणि मात्रा देखील सांगा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "82e8fc94-4451-4d92-91d3-4bc8103b371a",
+    "data": [
+      {
+        "text": "मला बटाट्याच्या शेतीत वापरल्या जाणार्‍या खतांबद्दल सांगा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  },
+  {
+    "id": "de7e52ed-24b4-4bb9-ba47-7b88f980963d",
+    "data": [
+      {
+        "text": "बटाट्यासाठी कोणती खते वापरावीत",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "mr",
+    "updated": 0
+  }
+]

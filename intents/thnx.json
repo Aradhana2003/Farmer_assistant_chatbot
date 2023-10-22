@@ -1,0 +1,35 @@
+{
+  "id": "4fff5da4-1bad-4771-8fd7-e194a8a1e280",
+  "name": "thnx",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "mr",
+          "speech": [
+            "तुम्हाला भविष्यात काही प्रश्न असल्यास मोकळ्या मनाने विचारा. तुमचा दिवस चांगला जावो"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

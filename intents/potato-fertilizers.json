@@ -1,0 +1,35 @@
+{
+  "id": "872a7f5e-7b4b-4b30-b899-894e5a10d1a5",
+  "name": "potato-fertilizers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "mr",
+          "speech": [
+            "पूर्वमशागतीच्या वेळी हेक्‍टरी 25 ते 30 टन चांगले कुजलेले शेणखत जमिनीत मिसळावे. पिकाला 100-120 किलो नत्र, 80 किलो स्फुरद व 80-100 किलो पालाश प्रति हेक्‍टरी देणे आवश्‍यक आहे. त्यापैकी अर्धे नत्र, स्फुरद व पालाश लागवडीच्या वेळी द्यावे व राहिलेले अर्धे नत्र लागवडीनंतर 25 ते 30 दिवसांनी सरीत टाकून नंतर मातीचा भर द्यावा."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
